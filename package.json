@@ -1,0 +1,16 @@
+{
+  "name": "kuyay-web-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Albedev <acevedo.chuecas@upsjb.edu.pe>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
